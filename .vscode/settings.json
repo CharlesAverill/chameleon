@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "src/utils/arguments.c": "C",
+        "random": "c",
+        "stdio.h": "c"
+    }
+}

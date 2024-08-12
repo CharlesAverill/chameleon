@@ -1,0 +1,4 @@
+(library
+ (name chameleon)
+ (modules atlas structures constants map noise logging)
+ (libraries tsdl))

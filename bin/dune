@@ -1,0 +1,11 @@
+(executable
+ (public_name chameleon)
+ (name main)
+ (libraries chameleon tsdl)
+ (modules main))
+
+(executable
+ (public_name atlas_gen)
+ (name atlas_gen)
+ (libraries chameleon tsdl)
+ (modules atlas_gen))
